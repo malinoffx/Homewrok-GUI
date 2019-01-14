@@ -1,0 +1,9 @@
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\bin\Debug\TicketButtonManager.exe.config
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\bin\Debug\TicketButtonManager.exe
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\bin\Debug\TicketButtonManager.pdb
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\obj\Debug\TicketButtonManager.Form1.resources
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\obj\Debug\TicketButtonManager.Properties.Resources.resources
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\obj\Debug\TicketButtonManager.csproj.GenerateResource.cache
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\obj\Debug\TicketButtonManager.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\obj\Debug\TicketButtonManager.exe
+C:\Users\Malinov\source\repos\ClickButton\TicketButtonManager\obj\Debug\TicketButtonManager.pdb
