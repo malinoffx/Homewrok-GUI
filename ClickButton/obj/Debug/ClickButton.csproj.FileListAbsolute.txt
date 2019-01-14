@@ -1,0 +1,10 @@
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\bin\Debug\ClickButton.exe.config
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\bin\Debug\ClickButton.exe
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\bin\Debug\ClickButton.pdb
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csprojAssemblyReference.cache
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.Form1.resources
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.Properties.Resources.resources
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csproj.GenerateResource.cache
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.exe
+C:\Users\Malinov\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.pdb
