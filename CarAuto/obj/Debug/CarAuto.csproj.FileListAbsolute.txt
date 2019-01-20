@@ -1,0 +1,10 @@
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\bin\Debug\CarAuto.exe.config
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\bin\Debug\CarAuto.exe
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\bin\Debug\CarAuto.pdb
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.csprojAssemblyReference.cache
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.Form1.resources
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.Properties.Resources.resources
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.csproj.GenerateResource.cache
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.csproj.CoreCompileInputs.cache
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.exe
+C:\Users\Malinov\source\repos\CarAuto\CarAuto\obj\Debug\CarAuto.pdb
